@@ -3,11 +3,11 @@
 
 This is a joke project by xem and bburky.
 
-What if I told you that virtually every web app can fit in 32 bits of code?
+What if I told you that virtually every web app can fit in 32 bytes of code?
 
 We dit it.
 
-Here are the 32 bits we're talking about:
+Here are the 32 bytes we're talking about:
 
     <body onload=eval("'"+location)>
 
